@@ -3,7 +3,7 @@
 ## Exercise overview
 
 - **Title**: Agent Orchestration: Build Your AI Dream Team
-- **Repository name**: `agent-orchestration-build-your-ai-dream-team`
+- **Repository name**: `skills-agent-orchestration`
 - **Audience**: Developers who have basic GitHub and GitHub Copilot familiarity and want to learn how to coordinate specialist agents from the terminal.
 - **Experience level**: Intermediate
 - **Estimated duration**: Less than one hour

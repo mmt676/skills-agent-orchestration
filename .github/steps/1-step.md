@@ -24,7 +24,7 @@ The custom agent definitions are already available in `.github/agents/`. Your fi
 2. Confirm the **Repository** field is your copy of the exercise, then select **Create Codespace**.
 
    - ✅ Your copy: `/{{full_repo_name}}`
-   - ❌ Original: `/skills/agent-orchestration-build-your-ai-dream-team`
+   - ❌ Original: `/skills/skills-agent-orchestration`
 
 3. Wait for the Codespace to finish loading.
 
